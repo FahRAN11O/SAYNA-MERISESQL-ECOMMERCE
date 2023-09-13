@@ -3,3 +3,5 @@ projet merise ecommerce en initiation backend avec SaynaSpace
 
 Lien des conceptions sur Google Drive vers draw.io
 https://drive.google.com/file/d/1I4eCYyWx6Q_dpC_DXJ5CaGtuOYp7z3XF/view?usp=sharing
+
+il suffit d'ouvrir avec draw.io pour trouver l'intégralité du travail
